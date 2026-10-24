@@ -183,8 +183,8 @@ The following are future development goals, not claims of completed functionalit
 ## 👨‍💻 Author
 
 **Dharavath Manoj**
-
-GitHub: [manojdharavath](https://github.com/manojdharavath)
+**Aryan kherwal**
+**Vedant Sharma**
 
 ---
 
