@@ -14,12 +14,21 @@ The project focuses on building a reliable data preparation pipeline for order f
 - Separate valid records from rejected records and record the reasons for rejection.
 - Reconcile processed records to verify pipeline consistency.
 
-## 🛠️ Technology Stack
+##🛠️ Technology Stack
 
-- **Python** — pipeline implementation
-- **Pandas** — data manipulation and transformation
-- **CSV** — source and processed data storage
-- **Git & GitHub** — version control
+Python — Core programming language for data engineering, pipeline orchestration, validation, and transformation.
+
+Pandas — Data cleaning, profiling, standardization, handling missing values, and KPI calculations.
+
+DuckDB & SQL — Analytical data warehousing, star-schema implementation, fact and dimension tables, and business KPI queries.
+
+Streamlit — Interactive analytics dashboard with KPI cards, filters, visualizations, and downloadable reports.
+
+Plotly — Interactive charts for order trends, courier performance, SLA compliance, and fulfillment analytics.
+
+CSV — Source datasets, intermediate pipeline outputs, cleaned records, and rejected-record storage.
+
+Git & GitHub — Version control, source-code management, collaboration, and project documentation.
 
 ## 📁 Project Structure
 
